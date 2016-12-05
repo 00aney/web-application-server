@@ -21,6 +21,7 @@
 * 
 
 ### 요구사항 3 - post 방식으로 회원가입
+* Content-Length 길이만큼 Body를 읽는다.
 * 
 
 ### 요구사항 4 - redirect 방식으로 이동
